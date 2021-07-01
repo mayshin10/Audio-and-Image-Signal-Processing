@@ -5,7 +5,7 @@ This project is to practice processing audio and image signal. For audio signal 
 ## Audio signal processing
 <p align="center">
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/original%20audio%20and%20noise.PNG" width = "600px" ></br>
-Original audio signal and gaussian nosie(N(0, 0.02))</br></br>
+Original audio signal and gaussian nosie(N(0, 0.02))
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/truncated%20filter.PNG" width = "600px" ></br>
 Truncated sinc function.
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/hanning%20windowing.PNG" width = "600px" ></br>
