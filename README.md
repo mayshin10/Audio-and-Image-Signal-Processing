@@ -8,7 +8,7 @@ This project is to practice processing audio and image signal. For audio signal 
 Original audio signal and gaussian nosie(N(0, 0.02))</br></br>
 <img src = "https://github.com/mayshin10/DSP-FPGA/blob/main/img_src/Zynq%20Board%20Results.png" width = "600px" ></br>
 Truncated sinc function.
-$$h_d[n] = w_c/\pi sin[w_c n]/w_cn , n = 0, 1, ..., N-1 (w_c = \pi/4, N= 39) 
+$$h_d[n] = w_c/\pi sin[w_c n]/w_cn , n = 0, 1, ..., N-1 (w_c = \pi/4, N= 39)$$ 
 ```
 h
 ```
