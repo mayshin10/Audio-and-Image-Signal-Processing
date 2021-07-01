@@ -1,6 +1,6 @@
 # DSP project </br>  Audio-and-Image-Processing
 
-This project is to practice processing audio and image signal. For audio signal processing practice, we made gaussian noise by ourselves and then, remove it by hanning windowing and lowpass filter using pole-zero placement. For iamge signal processing, we set original image and noised image. To remove the noise, we applied ideal lowpass filter and highpass filer, and compare to gaussian filter and laplacian filter.</br>
+This project is to practice processing audio and image signal. For audio signal processing practice, we made Gaussian noise by ourselves and then, remove it by hanning windowing and lowpass filter using pole-zero placement. For image signal processing, we set the original image and noised image. To remove the noise, we applied an ideal lowpass filter and highpass filter, and compare them to the gaussian filter and laplacian filter.</br></br>
 
 ## Audio signal processing
 <p align="center">
@@ -22,7 +22,7 @@ Lowpass filter designed by pole-zero placement
 ## Image signal processing
 <p align="center">
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/Filtered%20Images.png" width = "600px" ></br>
-A origian image</br></br>
+A original image</br></br>
 <img src = "https://github.com/mayshin10/DSP-FPGA/blob/main/img_src/Zynq%20Board%20Results.png" width = "600px" ></br>
 Ideal lowpass filter and highpass filter.
 <img src = "https://github.com/mayshin10/DSP-FPGA/blob/main/img_src/Zynq%20Board%20Results.png" width = "600px" ></br>
