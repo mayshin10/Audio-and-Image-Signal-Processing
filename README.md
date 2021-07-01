@@ -2,6 +2,7 @@
 ## DSP project for processing audio signal and image signal
 
 This project is to practice processing audio and image signal. For audio signal processing practice, we made gaussian noise by ourselves and then, remove it by hanning windowing and lowpass filter using pole-zero placement. For iamge signal processing, we set original image and noised image. To remove the noise, we applied ideal lowpass filter and highpass filer, and compare to gaussian filter and laplacian filter.</br>
+$1+1=2$
 
 ## Audio signal processing
 <p align="center">
