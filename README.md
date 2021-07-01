@@ -5,13 +5,13 @@ This project is to practice processing audio and image signal. For audio signal 
 ## Audio signal processing
 <p align="center">
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/original%20audio%20and%20noise.PNG" width = "600px" ></br>
-Original audio signal and gaussian nosie(N(0, 0.02))
+Original audio signal and gaussian nosie(N(0, 0.02))</br></br>
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/truncated%20filter.PNG" width = "600px" ></br>
-Truncated sinc function.
+Truncated sinc function.</br></br>
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/hanning%20windowing.PNG" width = "600px" ></br>
-FIR lowpass filter with 39 point Hanning window.
+FIR lowpass filter with 39 point Hanning window.</br></br>
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/reduced%20noise.PNG" width = "600px" ></br>
-Reduced noise by FIR lowpass filter with 39 point Hanning window.
+Reduced noise by FIR lowpass filter with 39 point Hanning window.</br></br>
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/lpf%20designed%20by%20pole-zero%20placement.PNG" width = "600px" ></br>
 Lowpass filter designed by pole-zero placement
 
@@ -24,13 +24,13 @@ Lowpass filter designed by pole-zero placement
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/original%20image.PNG" width = "600px" ></br>
 A original image</br></br>
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/ideal%20lpf%20and%20hpf.PNG" width = "600px" ></br>
-Ideal lowpass filter and highpass filter.
+Ideal lowpass filter and highpass filter.</br></br>
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/applying%20ideal%20lpf%20and%20hpf.PNG" width = "600px" ></br>
-Images applied ideal filters.
+Images applied ideal filters.</br></br>
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/laplacian%20and%20gaussian%20filter.PNG" width = "600px" ></br>
-Laplacian and gaussian filter.
+Laplacian and gaussian filter.</br></br>
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/compare%20ideal%20lpf%20to%20gaussian%20filter.PNG" width = "600px" ></br>
-Compare ideal lpf to gaussian filter.
+Compare ideal lpf to gaussian filter.</br></br>
 <img src = "https://github.com/mayshin10/Audio-and-Image-Signal-Processing/blob/main/img_src/compare%20ideal%20hpf%20to%20laplacian%20filter.PNG" width = "600px" ></br>
 Compare ideal hpf to laplacian filter.
 
